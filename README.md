@@ -1,7 +1,14 @@
 # 💫 About Me:
-python, html, css, js, ml <br>
-
-
+Technical Profile – Pinaki Das
+Role: Engineer | AI & Full-Stack Developer Aspirant
+Core Expertise: Python, Web Development, AI/ML Integration
+Programming & Development Skills
+Frontend: HTML, CSS, JavaScript, React.js
+Backend: Python (Flask, FastAPI)
+Databases: MongoDB
+App Development: Android Studio (Java, XML)
+Responsive Web Design: Media queries, adaptive UI/UX
+Version Control: Git & GitHub <br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daspinaki2005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pinaki-das-9a2860281) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daspinaki2005@gmail.com) 
 
