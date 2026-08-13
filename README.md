@@ -1,21 +1,109 @@
-# 💫 About Me:
-👋 Hi, I'm Pinaki Das<br><br>🎓 Final-year B.Tech CSE (AI/ML) student at Swami Vivekananda University<br>🤖 Passionate about Artificial Intelligence, Machine Learning & Generative AI<br>💻 Building AI-powered applications using Python, FastAPI, PyTorch, and LLMs<br>🧠 Interested in Computer Vision, NLP, RAG, and Prompt Engineering<br>🌱 Currently learning advanced AI/ML concepts and deploying scalable AI solutions<br>🚀 Looking for AI Engineer, Machine Learning Engineer, and Generative AI opportunities
+<!-- ========================================================= -->
+<!--                 PINAKI DAS — GITHUB README                -->
+<!-- ========================================================= -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61572271275175) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daspinaki2005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pinaki-das-9a2860281) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daspinaki2005@gmail.com) 
+  <!-- PROFILE AVATAR -->
+  <img
+    src="https://github.com/DASPINAKI2005.png?size=180"
+    width="110"
+    height="110"
+    alt="Pinaki Das"
+    style="border-radius:50%;"
+  />
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=DASPINAKI2005&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=DASPINAKI2005&theme=flag-india&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DASPINAKI2005&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  <!-- NAME -->
+  <h1>Pinaki Das</h1>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DASPINAKI2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <!-- TYPING HERO -->
+  <a href="https://github.com/DASPINAKI2005">
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=55&lines=AI+Engineer;Building+Practical+AI+That+Turns+Ideas+Into+Intelligent+Products;Machine+Learning+%7C+Generative+AI+%7C+LLMs;RAG+%7C+AI+Agents+%7C+Computer+Vision+%7C+NLP"
+      alt="Typing animation"
+    />
+  </a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <br>
+
+  <!-- STATUS -->
+  <img src="https://img.shields.io/badge/AI%20ENGINEER-0EA5E9?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+  <img src="https://img.shields.io/badge/INDIA%20%7C%20REMOTE-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPEN%20TO%20OPPORTUNITIES-06B6D4?style=for-the-badge&logo=target&logoColor=white" />
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    QUICK AI DASHBOARD                      -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+| 🧠 AI Focus | ⚙️ Engineering Stack | 🚀 Career Direction |
+|:---:|:---:|:---:|
+| ML • Deep Learning • GenAI | Python • PyTorch • FastAPI | AI Engineer |
+| LLMs • RAG • AI Agents | Hugging Face • Gemini | India + Remote |
+| Computer Vision • NLP | Docker • Cloud • APIs | Open to Opportunities |
+
+</div>
+
+<br>
+
+<div align="center">
+
+`🟢 Building AI Systems` &nbsp;&nbsp; `🟢 Exploring Advanced AI` &nbsp;&nbsp; `🟢 Open to AI Engineer Roles`
+
+</div>
+
+---
+
+# 👋 About Me
+
+Hi! I'm **Pinaki Das**, a final-year **B.Tech CSE (AI/ML)** student passionate about turning AI concepts into practical, usable software.
+
+I enjoy building systems around **Machine Learning, Deep Learning, Generative AI, LLM applications, RAG, AI Agents, Computer Vision, and NLP**.
+
+My engineering approach is simple:
+
+> **Build practical AI. Learn deeply. Ship useful products.**
+
+I'm currently focused on strengthening my understanding of advanced AI systems while building and deploying real-world applications using **Python, PyTorch, FastAPI, Hugging Face, Gemini, RAG pipelines and modern deployment tools.**
+
+---
+
+# 🧠 AI Engineer Stack
+
+```text
+                    ┌─────────────────────┐
+                    │       IDEAS         │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │       DATA          │
+                    └──────────┬──────────┘
+                               ↓
+               ┌───────────────────────────────┐
+               │ Machine Learning / Deep Learn │
+               └──────────────┬────────────────┘
+                              ↓
+                 ┌─────────────────────────┐
+                 │  LLMs / Generative AI   │
+                 └────────────┬────────────┘
+                              ↓
+                    ┌────────────────────┐
+                    │     RAG / Agents   │
+                    └──────────┬─────────┘
+                               ↓
+                    ┌────────────────────┐
+                    │       APIs         │
+                    │ FastAPI / Flask    │
+                    └──────────┬─────────┘
+                               ↓
+                    ┌────────────────────┐
+                    │     Deployment     │
+                    │ Docker / Cloud     │
+                    └────────────────────┘
