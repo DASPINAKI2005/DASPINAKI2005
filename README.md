@@ -45,34 +45,3 @@
 
 ## 💫 About Me
 
-```text
-  🎓 Final-year B.Tech CSE (AI/ML) student at Swami Vivekananda University
-  🤖 Passionate about Artificial Intelligence, Generative AI & Deep Learning
-  💻 Crafting production-grade AI systems with Python, FastAPI, PyTorch & Gemini
-  🧠 Specializing in Computer Vision, NLP, RAG Pipelines & Autonomous AI Agents
-  🚀 Actively seeking AI Engineer, ML Engineer & GenAI Roles
-Engineering Philosophy: Build practical AI. Learn deeply. Ship useful products.
-
-⚙️ AI Systems & Architecture Flow
-Plaintext
- ┌─────────────┐     ┌─────────────┐     ┌─────────────────────────────┐
- │    IDEAS    │ ──> │  DATA PREP  │ ──> │ ML / Deep Learning Modeling │
- └─────────────┘     └─────────────┘     └──────────────┬──────────────┘
-                                                        │
- ┌─────────────┐     ┌─────────────┐                    ▼
- │ DEPLOYMENT  │ <── │ API ENGINE  │ <── ┌─────────────────────────────┐
- │ Docker/Cloud│     │FastAPI/Flask│     │ GenAI / LLMs / RAG & Agents │
- └─────────────┘     └─────────────┘     └─────────────────────────────┘
-💻 Tech Stack & Toolkit
-🧠 AI / ML & Data Science
-p
-
-⚡ Backend & Web Development
-☁️ Databases, Cloud & DevOps
-📊 GitHub Analytics & Performance
-
-
-✍️ Daily Developer Quote
-
-
-Designed with ❤️ by Pinaki Das
