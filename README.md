@@ -45,3 +45,9 @@
 
 ## 💫 About Me
 
+```text
+  🎓 Final-year B.Tech CSE (AI/ML) student at Swami Vivekananda University
+  🤖 Passionate about Artificial Intelligence, Generative AI & Deep Learning
+  💻 Crafting production-grade AI systems with Python, FastAPI, PyTorch & Gemini
+  🧠 Specializing in Computer Vision, NLP, RAG Pipelines & Autonomous AI Agents
+  🚀 Actively seeking AI Engineer, ML Engineer & GenAI Roles
