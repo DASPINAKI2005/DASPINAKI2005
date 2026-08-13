@@ -72,57 +72,18 @@
 
 ---
 
-<!-- ========================================================= -->
-<!--                  ✨ ANIMATED ABOUT ME ✨                  -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-  <h2>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
-    <span style="color: #0EA5E9;">About Me</span>
-  </h2>
-
-  <!-- ANIMATED DYNAMIC TYPING SUMMARY -->
-  <a href="https://github.com/DASPINAKI2005">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&height=40&lines=🎓+Final-Year+B.Tech+CSE+(AI%2FML)+Student+@+Swami+Vivekananda+University;🤖+Passionate+About+Machine+Learning%2C+GenAI+%26+LLM+Architecture;💻+Building+Production-Ready+AI+Apps+with+Python%2C+FastAPI+%26+PyTorch;⚡+Goal%3A+Build+Practical+AI.+Learn+Deeply.+Ship+Useful+Products." alt="About Me Typing SVG" />
-  </a>
-
-  <br><br>
-
-  <!-- DUAL CARD GRID LAYOUT -->
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🎓 Academics & Focus</h3>
-        <p align="left">
-          • 🏛️ <b>University:</b> Swami Vivekananda University<br>
-          • 📚 <b>Degree:</b> B.Tech CSE (Spec. in AI & ML)<br>
-          • 🎯 <b>Career Goal:</b> AI / ML Engineer & GenAI Developer<br>
-          • 📍 <b>Location:</b> India (Open for Global Remote Roles)
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">🚀 What I Do</h3>
-        <p align="left">
-          • 🧠 <b>Generative AI:</b> RAG Pipelines, AI Agents & LLMs<br>
-          • 👁️ <b>Vision & NLP:</b> Computer Vision & Text Analytics<br>
-          • ⚙️ <b>Backend & Cloud:</b> FastAPI, PyTorch, Docker & APIs<br>
-          • 🌱 <b>Current Mission:</b> Deploying Scalable AI Solutions
-        </p>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
----
-
-# 🧠 AI System Workflow
-
-<div align="center">
+# 💫 About Me
 
 ```text
+  🎓 Final-year B.Tech CSE (AI/ML) student at Swami Vivekananda University
+  🤖 Passionate about Artificial Intelligence, Machine Learning & Generative AI
+  💻 Building AI-powered applications using Python, FastAPI, PyTorch, and LLMs
+  🧠 Deep interest in Computer Vision, NLP, RAG, and AI Agent Architecture
+  🌱 Actively learning advanced AI/ML concepts & scalable cloud deployment
+⚡ Engineering Philosophy: Build practical AI. Learn deeply. Ship useful products.
+
+🧠 AI System Workflow
+Plaintext
  ┌──────────────┐      ┌──────────────┐      ┌──────────────────────────────┐
  │    IDEAS     │ ───► │     DATA     │ ───► │ Machine Learning / Deep Learn│
  └──────────────┘      └──────────────┘      └──────────────┬───────────────┘
@@ -131,3 +92,10 @@
  │  Deployment  │ ◄─── │     APIs     │ ◄─── ┌──────────────────────────────┐
  │ Docker/Cloud │      │FastAPI/Flask │      │  LLMs / Generative AI / RAG  │
  └──────────────┘      └──────────────┘      └──────────────────────────────┘
+💻 Tech Stack & Toolkit
+🤖 Artificial Intelligence & Data Science
+p>
+
+⚡ Web, Backend & APIs
+☁️ Cloud, DevOps & Databases
+📊 GitHub Analytics
