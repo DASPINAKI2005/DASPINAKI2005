@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--                    PINAKI DAS — GITHUB README             -->
+<!--                   PINAKI DAS — GITHUB README             -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -25,24 +25,24 @@
 
   <!-- STATUS BADGES -->
   <p align="center">
-    <img src="https://img.shields.io/badge/AI%20ENGINEER-0EA5E9?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="AI Engineer Badge"/>
-    <img src="https://img.shields.io/badge/INDIA%20%7C%20REMOTE-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge"/>
-    <img src="https://img.shields.io/badge/OPEN%20TO%20OPPORTUNITIES-06B6D4?style=for-the-badge&logo=target&logoColor=white" alt="Opportunities Badge"/>
+    <img src="https://img.shields.io/badge/AI%20ENGINEER-0EA5E9?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+    <img src="https://img.shields.io/badge/INDIA%20%7C%20REMOTE-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white" />
+    <img src="https://img.shields.io/badge/OPEN%20TO%20OPPORTUNITIES-06B6D4?style=for-the-badge&logo=target&logoColor=white" />
   </p>
 
   <!-- SOCIAL LINKS -->
   <p align="center">
     <a href="https://linkedin.com/in/pinaki-das-9a2860281" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:daspinaki2005@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://instagram.com/daspinaki2005" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <a href="https://www.facebook.com/profile.php?id=61572271275175" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
   </p>
 
@@ -53,7 +53,7 @@
 ---
 
 <!-- ========================================================= -->
-<!--                     QUICK DASHBOARD CARD                  -->
+<!--                    QUICK DASHBOARD CARD                   -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -73,59 +73,66 @@
 ---
 
 <!-- ========================================================= -->
-<!--                   ANIMATED ABOUT ME SECTION               -->
+<!--                  ✨ ANIMATED ABOUT ME ✨                  -->
 <!-- ========================================================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:8B5CF6&height=80&text=💫%20About%20Me&fontSize=35&fontColor=ffffff&animation=twinkling" width="100%" alt="About Me Banner" />
-  
+
+  <h2>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+    <span style="color: #0EA5E9;">About Me</span>
+  </h2>
+
+  <!-- ANIMATED DYNAMIC TYPING SUMMARY -->
+  <a href="https://github.com/DASPINAKI2005">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&height=40&lines=🎓+Final-Year+B.Tech+CSE+(AI%2FML)+Student+@+Swami+Vivekananda+University;🤖+Passionate+About+Machine+Learning%2C+GenAI+%26+LLM+Architecture;💻+Building+Production-Ready+AI+Apps+with+Python%2C+FastAPI+%26+PyTorch;⚡+Goal%3A+Build+Practical+AI.+Learn+Deeply.+Ship+Useful+Products." alt="About Me Typing SVG" />
+  </a>
+
   <br><br>
 
-  <!-- ANIMATED PHILOSOPHY TEXT -->
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&height=40&lines=⚡+Engineering+Philosophy:+Build+practical+AI;⚡+Engineering+Philosophy:+Learn+deeply;⚡+Engineering+Philosophy:+Ship+useful+products." alt="Philosophy Typing Animation" />
+  <!-- DUAL CARD GRID LAYOUT -->
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🎓 Academics & Focus</h3>
+        <p align="left">
+          • 🏛️ <b>University:</b> Swami Vivekananda University<br>
+          • 📚 <b>Degree:</b> B.Tech CSE (Spec. in AI & ML)<br>
+          • 🎯 <b>Career Goal:</b> AI / ML Engineer & GenAI Developer<br>
+          • 📍 <b>Location:</b> India (Open for Global Remote Roles)
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🚀 What I Do</h3>
+        <p align="left">
+          • 🧠 <b>Generative AI:</b> RAG Pipelines, AI Agents & LLMs<br>
+          • 👁️ <b>Vision & NLP:</b> Computer Vision & Text Analytics<br>
+          • ⚙️ <b>Backend & Cloud:</b> FastAPI, PyTorch, Docker & APIs<br>
+          • 🌱 <b>Current Mission:</b> Deploying Scalable AI Solutions
+        </p>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
-<br>
+---
 
-<table align="center" width="100%">
-  <tr>
-    <td valign="top" width="55%">
-      <br>
-      <ul>
-        <li>🎓 <b>Education:</b> Final-year B.Tech CSE (AI/ML) student at <i>Swami Vivekananda University</i></li>
-        <li>🤖 <b>Passion:</b> Deep Learning, Generative AI, and Text-to-Image models</li>
-        <li>💻 <b>Building:</b> AI-powered architectures using <b>Python, FastAPI, PyTorch,</b> and <b>LLMs</b></li>
-        <li>🧠 <b>Interests:</b> Computer Vision, NLP, RAG, and self-healing software frameworks</li>
-        <li>🌱 <b>Learning:</b> Modern scalable cloud deployment and aesthetic UI integrations</li>
-      </ul>
-    </td>
-    <td valign="top" width="45%" align="center">
-      <!-- DYNAMIC GITHUB STATS CARD WITH NEON THEME -->
-      <img src="https://github-readme-stats.vercel.app/api?username=DASPINAKI2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=8B5CF6&text_color=ffffff" alt="Pinaki's GitHub Stats" />
-    </td>
-  </tr>
-</table>
+# 🧠 AI System Workflow
 
-### 🧠 AI System Workflow
+<div align="center">
 
-```mermaid
-graph LR
-    A[💡 IDEAS] --> B[📊 DATA]
-    B --> C{⚙️ Machine Learning<br/>Deep Learning}
-    C --> D[🧠 LLMs / GenAI / RAG]
-    D --> E[🔌 APIs<br/>FastAPI / Flask]
-    E --> F[🚀 Deployment<br/>Docker / Cloud]
-
-    %% Neon-style glassmorphism coloring
-    style A fill:#0D1117,stroke:#0EA5E9,stroke-width:2px,color:#fff
-    style B fill:#0D1117,stroke:#8B5CF6,stroke-width:2px,color:#fff
-    style C fill:#0D1117,stroke:#06B6D4,stroke-width:2px,color:#fff
-    style D fill:#0EA5E9,stroke:#0369a1,stroke-width:2px,color:#fff
-    style E fill:#8B5CF6,stroke:#6d28d9,stroke-width:2px,color:#fff
-    style F fill:#06B6D4,stroke:#0891b2,stroke-width:2px,color:#fff
+```text
+ ┌──────────────┐      ┌──────────────┐      ┌──────────────────────────────┐
+ │    IDEAS     │ ───► │     DATA     │ ───► │ Machine Learning / Deep Learn│
+ └──────────────┘      └──────────────┘      └──────────────┬───────────────┘
+                                                            │
+ ┌──────────────┐      ┌──────────────┐                     ▼
+ │  Deployment  │ ◄─── │     APIs     │ ◄─── ┌──────────────────────────────┐
+ │ Docker/Cloud │      │FastAPI/Flask │      │  LLMs / Generative AI / RAG  │
+ └──────────────┘      └──────────────┘      └──────────────────────────────┘
 💻 Tech Stack & Toolkit
 🤖 Artificial Intelligence & Data Science
-
 ⚡ Web, Backend & APIs
-
 ☁️ Cloud, DevOps & Databases
+📊 GitHub Analytics
