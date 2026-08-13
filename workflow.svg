@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 170" width="100%">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .card { fill: url(#g); stroke: #38bdf8; stroke-width: 1.5; rx: 12px; animation: pulse 2s infinite alternate; }
+    @keyframes pulse { 0% { stroke: #0ea5e9; } 100% { stroke: #8b5cf6; } }
+    .t1 { font-family: 'Fira Code', monospace; font-size: 13px; font-weight: bold; fill: #38bdf8; text-anchor: middle; }
+    .t2 { font-family: system-ui, sans-serif; font-size: 11px; fill: #c9d1d9; text-anchor: middle; }
+    .ic { font-size: 22px; text-anchor: middle; }
+    .flow { stroke: #38bdf8; stroke-width: 3; stroke-dasharray: 6 6; animation: f 0.8s linear infinite; }
+    @keyframes f { to { stroke-dashoffset: -12; } }
+  </style>
+
+  <!-- Flow Arrows -->
+  <path d="M145 85H195 M325 85H375 M505 85H555 M685 85H735" class="flow"/>
+
+  <!-- Step 1 -->
+  <g transform="translate(15,25)">
+    <rect width="130" height="120" class="card"/>
+    <text x="65" y="35" class="ic">💡</text>
+    <text x="65" y="60" class="t1">1. IDEAS</text>
+    <text x="65" y="85" class="t2">Problem Specs</text>
+    <text x="65" y="102" class="t2">Architecture</text>
+  </g>
+
+  <!-- Step 2 -->
+  <g transform="translate(195,25)">
+    <rect width="130" height="120" class="card"/>
+    <text x="65" y="35" class="ic">📊</text>
+    <text x="65" y="60" class="t1">2. DATA</text>
+    <text x="65" y="85" class="t2">Data Pipelines</text>
+    <text x="65" y="102" class="t2">Preprocessing</text>
+  </g>
+
+  <!-- Step 3 -->
+  <g transform="translate(375,25)">
+    <rect width="130" height="120" class="card"/>
+    <text x="65" y="35" class="ic">🧠</text>
+    <text x="65" y="60" class="t1">3. ML / GenAI</text>
+    <text x="65" y="85" class="t2">Model Training</text>
+    <text x="65" y="102" class="t2">RAG &amp; LLMs</text>
+  </g>
+
+  <!-- Step 4 -->
+  <g transform="translate(555,25)">
+    <rect width="130" height="120" class="card"/>
+    <text x="65" y="35" class="ic">⚙️</text>
+    <text x="65" y="60" class="t1">4. APIs &amp; CORE</text>
+    <text x="65" y="85" class="t2">FastAPI Services</text>
+    <text x="65" y="102" class="t2">AI Agents</text>
+  </g>
+
+  <!-- Step 5 -->
+  <g transform="translate(735,25)">
+    <rect width="130" height="120" class="card"/>
+    <text x="65" y="35" class="ic">🚀</text>
+    <text x="65" y="60" class="t1">5. DEPLOY</text>
+    <text x="65" y="85" class="t2">Docker / Cloud</text>
+    <text x="65" y="102" class="t2">Production</text>
+  </g>
+</svg>
