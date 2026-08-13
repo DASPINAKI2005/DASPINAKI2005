@@ -83,9 +83,9 @@
     <span style="color: #0EA5E9;">About Me</span>
   </h2>
 
-  <!-- ANIMATED DYNAMIC TYPING SUMMARY -->
+  <!-- ANIMATED DYNAMIC TYPING SUMMARY (FIXED) -->
   <a href="https://github.com/DASPINAKI2005">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&height=40&lines=🎓+Final-Year+B.Tech+CSE+(AI%2FML)+Student+@+Swami+Vivekananda+University;🤖+Passionate+About+Machine+Learning%2C+GenAI+%26+LLM+Architecture;💻+Building+Production-Ready+AI+Apps+with+Python%2C+FastAPI+%26+PyTorch;⚡+Goal%3A+Build+Practical+AI.+Learn+Deeply.+Ship+Useful+Products." alt="About Me Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=%F0%9F%8E%93%20Final-Year%20B.Tech%20CSE%20(AI%2FML)%20Student%20%40%20Swami%20Vivekananda%20University;%F0%9F%A4%96%20Passionate%20About%20Machine%20Learning%2C%20GenAI%20%26%20LLM%20Architecture;%F0%9F%92%BB%20Building%20Production-Ready%20AI%20Apps%20with%20Python%2C%20FastAPI%20%26%20PyTorch;%E2%9A%A1%20Goal%3A%20Build%20Practical%20AI.%20Learn%20Deeply.%20Ship%20Useful%20Products." alt="About Me Typing SVG" />
   </a>
 
   <br><br>
@@ -123,11 +123,11 @@
 <div align="center">
 
 ```text
- ┌──────────────┐      ┌──────────────┐      ┌──────────────────────────────┐
- │    IDEAS     │ ───► │     DATA     │ ───► │ Machine Learning / Deep Learn│
- └──────────────┘      └──────────────┘      └──────────────┬───────────────┘
-                                                            │
- ┌──────────────┐      ┌──────────────┐                     ▼
- │  Deployment  │ ◄─── │     APIs     │ ◄─── ┌──────────────────────────────┐
- │ Docker/Cloud │      │FastAPI/Flask │      │  LLMs / Generative AI / RAG  │
- └──────────────┘      └──────────────┘      └──────────────────────────────┘
+┌──────────────┐      ┌──────────────┐      ┌──────────────────────────────┐
+│    IDEAS     │ ───► │     DATA     │ ───► │ Machine Learning / Deep Learn│
+└──────────────┘      └──────────────┘      └──────────────┬───────────────┘
+                                                           │
+┌──────────────┐      ┌──────────────┐                     ▼
+│ Deployment   │ ◄─── │     APIs     │ ◄─── ┌──────────────────────────────┐
+│ Docker/Cloud │      │FastAPI/Flask │      │  LLMs / Generative AI / RAG  │
+└──────────────┘      └──────────────┘      └──────────────────────────────┘
